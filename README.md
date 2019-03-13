@@ -7,12 +7,21 @@
 需要安装组件：
 
 #读取excel文件
+
 pip install xlrd
+
 #写excel文件
+
 pip install xlwt
+
 #定时任务框架
+
 pip install apscheduler
+
 #HTML或XML文件中提取数据的Python库
+
 pip install BeautifulSoup
+
 #微信API封装库
+
 pip install wxpy
