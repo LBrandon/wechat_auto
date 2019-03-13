@@ -25,3 +25,4 @@ pip install BeautifulSoup
 #微信API封装库
 
 pip install wxpy
+
